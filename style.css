@@ -1,0 +1,193 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+section {
+  width: 100%;
+  height: 100vh;
+  margin-bottom: 100px;
+}
+.banner-img {
+  width: 100%;
+  height: 100vh;
+  background-image: url(images/mecca.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 140px;
+}
+.header-container {
+}
+.overlay {
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(
+    to right,
+    rgba(51, 0, 102, 9.9),
+    rgba(75, 0, 129, 0.1)
+  );
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.header-banner h1 {
+  color: white;
+  font-size: 55px;
+  margin-bottom: 30px;
+}
+.header-banner p {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 60px;
+}
+.header-banner {
+  width: 400px;
+  height: 400px;
+  margin: 120px;
+  background: transparent;
+}
+.btn {
+  padding: 20px 30px;
+  background-image: linear-gradient(to right, #dd077f, #ff007e);
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.hajj-description {
+  width: 450px;
+  height: 450px;
+}
+
+.hajj-description h1 {
+  color: black;
+  margin-bottom: 30px;
+  font-size: 55px;
+}
+.hajj-description p {
+  color: black;
+  margin-bottom: 60px;
+  font-size: 20px;
+}
+.description {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 50px;
+  align-items: center;
+}
+.media img {
+  width: 450px;
+  height: 550px;
+  border-radius: 20px;
+}
+iframe {
+  border-radius: 20px;
+}
+.special-height {
+  height: 235vh;
+}
+.tourist-img {
+  margin-top: 60px;
+}
+.tourist-img img {
+  width: 500px;
+  height: 300px;
+  border-radius: 10px 10px 0 0;
+}
+.title-1 {
+  color: black;
+  margin-bottom: 20px;
+  font-size: 55px;
+  text-align: center;
+  width: 600px;
+  margin: auto;
+  height: 150px;
+}
+.title-2 {
+  color: black;
+  /* margin-top: 60px; */
+  font-size: 20px;
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+.tourist-place {
+  display: flex;
+  justify-content: space-evenly;
+}
+.inner-cart {
+  width: 500px;
+  height: 235px;
+  background-color: black;
+  margin-top: -5px;
+}
+.inner-white {
+  width: 410px;
+  height: 200px;
+  margin: auto;
+  position: relative;
+  background-color: white;
+  margin-top: -30px;
+  border-radius: 10px;
+}
+.inner-white h3 {
+  font-size: 25px;
+  padding: 20px 20px;
+}
+.inner-white p {
+  font-size: 18px;
+  padding: 10px 20px;
+}
+.inner-white a {
+  text-decoration: none;
+  padding: 20px;
+}
+.place img {
+  width: 350px;
+  height: 300px;
+  border-radius: 10px;
+}
+.shadow {
+  box-shadow: 5px 5px 20px 0 gray;
+  padding: 20px 20px 80px 20px;
+  width: 380px;
+  height: 350px;
+  margin: 0 20px;
+  border-radius: 10px;
+}
+.portfolio-place {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align: center;
+  margin: auto;
+  margin: 50px 0 200px 0;
+}
+.bg-color {
+  background-color: #f6f6f6;
+  padding: 100px 0;
+}
+.margin-bottom {
+  margin-bottom: 150px;
+  height: 120vh;
+}
+.bg-footer {
+  background-color: black;
+  text-align: center;
+  padding: 50px 0;
+}
+footer h3 {
+  color: #ff007e;
+  margin-bottom: 5px;
+  font-family: "Lobster", cursive;
+  font-size: 40px;
+}
+footer p {
+  color: #f6f6f6;
+
+  position: relative;
+}
