@@ -1,0 +1,289 @@
+@media screen and (max-width: 1200px) {
+  .bg-color {
+    padding: 50px 0;
+  }
+  .res-height {
+    width: 100%;
+    height: 70vh;
+  }
+  .special-height {
+    height: 170vh;
+  }
+  .margin-bottom {
+    height: 90vh;
+  }
+  .place img {
+    width: 280px;
+    height: 260px;
+    border-radius: 10px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .header-banner {
+    margin-top: 150px;
+  }
+  .description {
+    justify-content: space-between;
+    margin: 0 40px;
+    align-items: center;
+  }
+  .tourist-img img {
+    width: 400px;
+    height: 300px;
+    border-radius: 10px 10px 0 0;
+  }
+  .inner-cart {
+    width: 400px;
+    height: 235px;
+  }
+  .inner-white {
+    width: 350px;
+    height: 200px;
+  }
+  .place img {
+    width: 260px;
+    height: 260px;
+  }
+  .shadow {
+    box-shadow: 5px 5px 20px 0 gray;
+    padding: 20px 20px 80px 20px;
+    width: 340px;
+    height: 360px;
+    margin: 0 10px;
+
+    border-radius: 10px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .hajj-description {
+    width: 400px;
+    height: 450px;
+    align-items: center;
+  }
+
+  .hajj-description h1 {
+    color: black;
+    margin-bottom: 30px;
+    font-size: 35px;
+    margin-top: 30px;
+  }
+  .hajj-description p {
+    font-size: 18px;
+    margin-right: 20px;
+    text-align: justify;
+  }
+  p.res-size {
+    margin: 50px 10px;
+  }
+  iframe {
+    width: 360px;
+    height: 450px;
+  }
+  .description {
+    margin: 0 40px;
+  }
+  .media img {
+    width: 400px;
+    height: 480px;
+    border-radius: 20px;
+    margin-right: 20px;
+  }
+  .btn {
+    padding: 15px 25px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .title-1 {
+    font-size: 35px;
+    width: 600px;
+    height: 70px;
+  }
+  .title-2 {
+    font-size: 18px;
+    width: 500px;
+  }
+  .tourist-img img {
+    width: 350px;
+    height: 300px;
+    border-radius: 10px 10px 0 0;
+  }
+  .inner-cart {
+    width: 350px;
+    height: 235px;
+  }
+  .inner-white {
+    width: 330px;
+    height: 200px;
+  }
+  .special-height {
+    height: 160vh;
+  }
+  .place img {
+    width: 200px;
+    height: 220px;
+  }
+  .place p {
+    font-size: 15px;
+  }
+  .place h3 {
+    font-size: 16px;
+  }
+  .shadow {
+    box-shadow: 5px 5px 20px 0 gray;
+    padding: 20px 20px 80px 20px;
+    width: 300px;
+    height: 320px;
+    margin: 0 10px;
+
+    border-radius: 10px;
+  }
+  .res-height {
+    height: 70vh;
+  }
+
+  .margin-bottom {
+    margin-bottom: 50px;
+  }
+  footer h3 {
+    margin-bottom: 5px;
+    font-family: "Lobster", cursive;
+    font-size: 30px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .header-banner h1 {
+    color: white;
+    font-size: 35px;
+    margin-bottom: 30px;
+  }
+  .header-banner p {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 40px;
+  }
+  .header-banner {
+    width: 250px;
+    height: 200px;
+    margin: 90px;
+    background: transparent;
+  }
+
+  .banner-img {
+    width: 100%;
+    height: 55vh;
+  }
+  .btn {
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .hajj-description {
+    width: 100%;
+    height: 450px;
+    align-items: center;
+  }
+  .description {
+    display: block;
+    margin: 0 50px;
+    align-items: center;
+  }
+  .res-height {
+    height: 100vh;
+  }
+  .media {
+    margin-top: -20px;
+  }
+  iframe {
+    width: 370px;
+    height: 380px;
+  }
+  .media img {
+    width: 380px;
+    height: 450px;
+    border-radius: 20px;
+    margin-right: 20px;
+  }
+  .title-1 {
+    font-size: 30px;
+    width: 480px;
+    height: 50px;
+    text-align: center;
+  }
+  .title-2 {
+    font-size: 15px;
+    width: 400px;
+  }
+  .tourist-place {
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+  .tourist-img img {
+    width: 80%;
+    height: 300px;
+    border-radius: 10px 10px 0 0;
+    margin: auto;
+    text-align: center;
+  }
+  .inner-cart {
+    width: 80%;
+    height: 235px;
+    margin: auto;
+    text-align: center;
+  }
+  .inner-white {
+    width: 330px;
+    height: 200px;
+    text-align: center;
+  }
+  .special-height {
+    height: 290vh;
+  }
+  .inner-white h3 {
+    font-size: 20px;
+    padding: 20px 20px;
+  }
+  .inner-white p {
+    font-size: 15px;
+    padding: 10px 20px;
+  }
+  .portfolio-place {
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin: 50px 0 200px 0;
+  }
+  .place img {
+    width: 100%;
+    height: 220px;
+  }
+  .place p {
+    font-size: 15px;
+  }
+  .place h3 {
+    font-size: 16px;
+  }
+  .shadow {
+    box-shadow: 5px 5px 20px 0 gray;
+    padding: 20px 20px 10px 20px;
+    width: 80%;
+    height: 350px;
+    margin: 20px 20px;
+    border-radius: 10px;
+  }
+  .res-height {
+    height: 170vh;
+  }
+  .new-height {
+    height: 100vh;
+  }
+  .re-height {
+    height: 170vh;
+  }
+  footer h3 {
+    font-size: 25px;
+  }
+  footer p {
+    font-size: 15px;
+  }
+}
